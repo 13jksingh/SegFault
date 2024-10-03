@@ -11,6 +11,7 @@
 
 ### All the very best..!! Happy Hacking..!! 
 
+Solution PPT -> https://www.canva.com/design/DAGSGU9gljE/-VHMwqe_8LXtvJpdqsIChg/edit?utm_content=DAGSGU9gljE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
 ## Topics 
@@ -24,3 +25,5 @@ Team can chose ONE of the topic from below and work on that.
 - [Scenario - 3: Resume Screener](ResumeScreening.md)
   
 - [Scenario - 4: KYC Platform](KYCPlatform.md)
+
+- https://drive.google.com/file/d/16rZrrG-j-iK8sTBAl-v6V8A4BfFH3OD9/view?usp=sharing
